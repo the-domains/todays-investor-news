@@ -1,4 +1,3 @@
-layout_spectrum: 0.2587734453845769
 typography_spectrum: 0.6899614715948701
 color:
   brandStrength: 0.9898662737105042
@@ -6,9 +5,11 @@ color:
   saturation: 0.7537497661542147
   rhythmicContrast: 0.9687959181610495
   brandColors:
-    - '#094AA4'
-    - '#FFC509'
-    - '#FFFFFF'
-    - '#56BCEC'
-    - '#011017'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.2587734453845769
 name: Today's Investor News
+title: Stocks in the News
