@@ -26,5 +26,8 @@ navigation:
   - name: About newswire
     url: 'http://www.investorideas.com/News-Upload/'
     type: external
+  - name: Disclaimer
+    url: 'http://www.investorideas.com/About/Disclaimer.asp'
+    type: external
 title: news that inspires big ideas
 description: 'Today''s Investor Ideas '
