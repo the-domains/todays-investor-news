@@ -1,0 +1,14 @@
+layout_spectrum: 0.2587734453845769
+typography_spectrum: 0.6899614715948701
+color:
+  brandStrength: 0.9898662737105042
+  lightness: 0.23768969951197505
+  saturation: 0.7537497661542147
+  rhythmicContrast: 0.9687959181610495
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Today's Investor News
