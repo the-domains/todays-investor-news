@@ -6,9 +6,9 @@ color:
   saturation: 0.7537497661542147
   rhythmicContrast: 0.9687959181610495
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#094AA4'
+    - '#FFC509'
+    - '#FFFFFF'
+    - '#56BCEC'
+    - '#011017'
 name: Today's Investor News
