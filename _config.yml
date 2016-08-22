@@ -22,9 +22,5 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e447317c-4988-4b1a-a6e2-f6c410fa13ca.png
 name: 'Investor Ideas Newswire  '
-navigation:
-  - name: About us- submit news
-    url: 'http://www.investorideas.com/News-Upload/'
-    type: external
 title: news that inspires big ideas
 description: 'Today''s Investor Ideas '
