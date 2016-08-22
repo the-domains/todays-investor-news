@@ -1,4 +1,3 @@
-layout_spectrum: 0.554613383486867
 typography_spectrum: 0.7721994612365961
 color:
   brandStrength: 0.6711927659343928
@@ -11,6 +10,9 @@ color:
     - '#40627C'
     - '#26393D'
     - '#FFFAE4'
-name: Today's Investor News
+layout_spectrum: 0.554613383486867
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e447317c-4988-4b1a-a6e2-f6c410fa13ca.png
+name: 'Today''s Investor Ideas '
 title: news that inspires big ideas
 description: 'Investor Ideas '
