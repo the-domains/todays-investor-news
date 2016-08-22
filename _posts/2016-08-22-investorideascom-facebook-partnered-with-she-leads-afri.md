@@ -26,11 +26,11 @@ isBasedOnUrl: 'http://www.investorideas.com/news/2016/social-media/08221FB.asp'
 title: >-
   Investorideas.com - #Facebook partnered with She Leads #Africa in support of
   female African entrepreneurs
-datePublished: '2016-08-22T21:07:08.703Z'
-dateModified: '2016-08-22T21:05:45.603Z'
+datePublished: '2016-08-22T21:16:07.906Z'
+dateModified: '2016-08-22T21:16:07.794Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-22-investorideascom-facebook-partnered-with-she-leads-afri.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
