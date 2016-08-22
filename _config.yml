@@ -1,16 +1,16 @@
-typography_spectrum: 0.6899614715948701
+layout_spectrum: 0.554613383486867
+typography_spectrum: 0.7721994612365961
 color:
-  brandStrength: 0.9898662737105042
-  lightness: 0.23768969951197505
-  saturation: 0.7537497661542147
-  rhythmicContrast: 0.9687959181610495
+  brandStrength: 0.6711927659343928
+  lightness: 0.7384724607691169
+  saturation: 0.696986204944551
+  rhythmicContrast: 0.6751752013806254
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.2587734453845769
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
 name: Today's Investor News
 title: news that inspires big ideas
 description: 'Investor Ideas '
