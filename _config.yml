@@ -13,7 +13,7 @@ color:
     - '#26393D'
     - '#FFFAE4'
 opengraph:
-  type: 'https://www.facebook.com/Investorideas'
+  type: ''
 layout_spectrum: 0.554613383486867
 author:
   email: dvanzant@investorideas.com
