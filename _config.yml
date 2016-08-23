@@ -32,5 +32,8 @@ navigation:
   - name: YouTube Investorideas
     url: 'https://www.youtube.com/c/Investorideas'
     type: external
+  - name: 'Investorideas Twitter '
+    url: 'https://twitter.com/Investorideas'
+    type: external
 title: news that inspires big ideas
 description: 'Today''s Investor Ideas '
